@@ -1,0 +1,10 @@
+D:\test_3\Api\Chat\Chat\bin\Debug\Chat.exe.config
+D:\test_3\Api\Chat\Chat\bin\Debug\Chat.exe
+D:\test_3\Api\Chat\Chat\bin\Debug\Chat.pdb
+D:\test_3\Api\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+D:\test_3\Api\Chat\Chat\obj\Debug\Chat.Form1.resources
+D:\test_3\Api\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\test_3\Api\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+D:\test_3\Api\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+D:\test_3\Api\Chat\Chat\obj\Debug\Chat.exe
+D:\test_3\Api\Chat\Chat\obj\Debug\Chat.pdb
